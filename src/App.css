@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+img {
+  width: 300px;
+  height: 300px;
+}
+.RegionContainer {
+  text-align: center;
+  margin: 50px;
+  border: 1px solid #ccc;
+  transition: all 0.3s ease;
+}
+.RegionContainer:hover {
+  border: 1px solid red;
+}
